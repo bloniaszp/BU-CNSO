@@ -1,7 +1,3 @@
-# The Computational Neuroscience Student Organization (CNSO) at Boston University
-### Sponsored by Graduate Program for Neuroscience
-
-
 #### Mission
 
 The Computational Neuroscience Student Organization (CNSO) is a dynamic student-led initiative at Boston University committed to advancing the interdisciplinary field of computational neuroscience. With an academic ecosystem that is both diverse and synergistic, CNSO aims to bridge the gap between theoretical and experimental neuroscience. We collaborate closely with the Neuroscience Graduate Student Organization (NGSO) to ensure a comprehensive neuroscience educational experience that is unified across both campuses and transcends traditional boundaries between neuroscience and computational neuroscience.
